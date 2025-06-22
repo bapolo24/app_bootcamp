@@ -4,6 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-orange)
+
 ## 📝 Licencia
 
 Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo, mejorarlo y compartirlo!
